@@ -1,4 +1,4 @@
-# NLW Heat - React.js
+# NLW Heat - React Native
 
 ## 💻 Sobre o projeto
 
